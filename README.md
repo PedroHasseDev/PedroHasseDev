@@ -5,11 +5,11 @@
 <div>
   <p>[ENG] I'm a Jr Fullstack Developer with an interest on Back-End.
   I love physical activity, games, to create code and solve problems, to watch movies and to read!
-  So far I've got knowledge on HTML5, CSS3, Booststrap, Styled Components, Javascript, Jest, React.JS, Redux, Context API, Hooks, Docker and MySQL. And I'm always seeking to develop my skills.</p>
+  So far I've got knowledge on HTML5, CSS3, Booststrap, Styled Components, Javascript, Jest, React.JS, Redux, Context API, Hooks, Docker, MySQL, Node.js, API REST with Express, Integration Tests, Software Architecture: Model, Service and Controller, ORM, Typescript, Object-Oriented Programming and SOLID. And I'm always seeking to develop my skills.</p>
   
   <p>[PT-BR] Eu sou um Desenvolvedor Fullstack Jr. com um grande interesse em Back-End.
   Atualmente, estou estudando na Trybe. Adoro atividade física, games, programar e resolver problemas, ver filmes, séries e ler!
-  Tenho conhecimentos em HTML5, CSS3, Bootstrap, Styled Components, Javascript, Jest, React.JS, Redux, Context API, Hooks, Docker e MySQL. E continuo sempre buscando aprimorar minhas habilidades.</p>
+  Tenho conhecimentos em HTML5, CSS3, Bootstrap, Styled Components, Javascript, Jest, React.JS, Redux, Context API, Hooks, Docker, MySQL, Node.js, API REST com Express, Testes de Integração, Arquitetura de Software: Camadas Model, Service e Controller, ORM e Autenticação, Typescript, Programação Orientada a Objetos e SOLID. E continuo sempre buscando aprimorar minhas habilidades.</p>
   
   <p> 📧 pedro_hasse@yahoo.com.br </p>
 </div>
