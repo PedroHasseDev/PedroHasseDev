@@ -37,7 +37,11 @@
 
 <h3> Back End </h3>
 <section>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-288BA8?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-746AB0?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-808080?style=for-the-badge&logo=express&logoColor=black" />
+  <img src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb&logoColor=white" />
 </section>
 
 <h3> Testing </h3>
@@ -57,6 +61,5 @@
 
 <h2> Where to find me </h2>
 <section> 
-  <a href="https://www.instagram.com/pedrohasseniem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/pedrohassen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
