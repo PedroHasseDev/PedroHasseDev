@@ -72,5 +72,5 @@
   </a>
    
   <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohassen&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="460px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohassen&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
   </a>
