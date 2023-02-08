@@ -68,7 +68,7 @@
   
 <div align="center">
   <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohassen&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**PEDRO HASSE NIEMCZEWSKI* github stats" heigth="160em" width="420px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohassen&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**PEDRO HASSE NIEMCZEWSKI* github stats" heigth="160em" width="400px"/>
   </a>
    
   <a href="https://github.com/pedrohassen">
