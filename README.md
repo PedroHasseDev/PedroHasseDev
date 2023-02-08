@@ -4,7 +4,7 @@
 
 <div align="center">Graduated in Business Administration from Anhanguera Pelotas. 3 years experience as a Realtor.</div>
 <div align="center">Fullstack Developer with an interest on Back-End.</div> </br>
-<div align="center">I love physical activity, games, to create code and solve problems, to watch movies and to read! I'm always seeking to develop my skills. <b>I have a passion to help, and I will do it wherever I can!</b></div> </br>
+<div align="center"><b>I love physical activity, games, to create code and solve problems, to watch movies and to read! I'm always seeking to develop my skills. I have a passion to help, and I will do it wherever I can!</b></div> </br>
   
   <p> 📧 pedro_hasse@yahoo.com.br </p>
 </div>
