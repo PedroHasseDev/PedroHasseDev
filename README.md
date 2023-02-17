@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hooks-43853D?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-593D88?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-007ABB?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
