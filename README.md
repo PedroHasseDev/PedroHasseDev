@@ -5,7 +5,30 @@
 <div align="center">Graduated in Business Administration from Anhanguera Pelotas. 3 years experience as a Realtor.</div>
 <div align="center">Fullstack Developer with an interest on Back-End.</div> </br>
 <div align="center"><b>I love physical activity, games, to create code and solve problems, to watch movies and to read! I'm always seeking to develop my skills. I have a passion to help, and I will do it wherever I can!</b></div> </br>
-  
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/pedrohassen" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:pedro_hasse@yahoo.com.br" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5553984818976" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/pedrohassen/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
+
+<div align="center">
   <p> 📧 pedro_hasse@yahoo.com.br </p>
 </div>
 
@@ -68,11 +91,8 @@
 
 <h2> GitHub Statistics </h2>
   
-<div align="center">
-  <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohassen&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**PEDRO HASSE NIEMCZEWSKI* github stats" heigth="160em" width="360px"/>
-  </a>
-   
-  <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohassen&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
-  </a>
+<div>
+  <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohassen&theme=github_dark"/>
+  <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrohassen&theme=github_dark"/>
+  <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrohassen&theme=github_dark"/>
+</div>
