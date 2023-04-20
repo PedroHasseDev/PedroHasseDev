@@ -70,9 +70,9 @@
   
 <div align="center">
   <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohassen&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**PEDRO HASSE NIEMCZEWSKI* github stats" heigth="160em" width="360px"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohassen&show_icons=true&theme=dracula&line_height=33&count_private=true" alt="**PEDRO HASSE NIEMCZEWSKI* github stats" heigth="160em" width="360px"/>
   </a>
    
   <a href="https://github.com/pedrohassen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohassen&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohassen&langs_count=7&theme=dracula&hide_langs_below=1&layout=compact"  heigth="160em" width="400px"/>
   </a>
