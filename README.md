@@ -13,13 +13,13 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/pedrohassen" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/pedrohassen" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/main/img/github.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:pedro_hasse@yahoo.com.br" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:pedro_hasse@yahoo.com.br" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/main/img/gmail.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5553984818976" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5553984818976" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedrohassen/" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedrohassen/" target="_blank"><img src="https://github.com/pedrohassen/pedrohassen/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
